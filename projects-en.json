@@ -1,0 +1,185 @@
+[
+  {
+    "id": "live",
+    "num": "01",
+    "tag": "SALES · LIVE COMMERCE",
+    "title": "Theme park ticket live commerce",
+    "summary": "Turned audience insights into the domestic T&A team’s first live commerce initiative and measurable sales growth.",
+    "metric": "1,380%",
+    "unit": "Year-over-year transaction value growth",
+    "sub": "₩135M in 4 days · 673% of target",
+    "image": "live-cutout.png",
+    "alt": "Theme park social content and live commerce broadcast",
+    "overview": "Led the domestic T&A team’s first live commerce initiative, informed by core audience analysis. Negotiated the venue’s first 50% discount and managed the promotion from planning to execution.",
+    "role": "Project planning and overall leadership",
+    "process": [
+      "Met with the venue partner and negotiated its first 50% discount on off-season tickets.",
+      "Coordinated with relevant teams to define the coupon structure.",
+      "Collaborated with the vendor’s development team to improve the ticket purchase UI.",
+      "Created social content, achieved the No. 1 organic position for the target keyword on portal N, and generated over 400 comments on card-style posts.",
+      "Monitored the broadcast and handled customer inquiries in real time."
+    ],
+    "results": [
+      "Generated ₩135 million in transaction value over four days.",
+      "Achieved 1,380% year-over-year growth and 673% of target.",
+      "Reached 2,200 viewers with a 13.7% conversion rate.",
+      "Received subsequent collaboration proposals from other venues."
+    ],
+    "gallery": [
+      [
+        "live-cutout.png",
+        "Social content and live commerce materials"
+      ]
+    ],
+    "source": "Updated career information · Process from original PDF"
+  },
+  {
+    "id": "invoice",
+    "tag": "SALES OPERATIONS · AUTOMATION",
+    "title": "Invoice management automation",
+    "summary": "Built a web-based settlement tool to streamline recurring work in European sales operations.",
+    "metric": "~98%",
+    "unit": "Reduction in invoice processing time",
+    "sub": "Samwha Europe GmbH",
+    "image": "invoice-clean.png",
+    "overview": "Developed a web-based settlement tool to automate invoice management at Samwha Europe.",
+    "role": "Development of a web-based settlement tool",
+    "process": [
+      "Automated invoice management through a web-based settlement tool."
+    ],
+    "results": [
+      "Reduced invoice processing time by approximately 98%."
+    ],
+    "gallery": [
+      [
+        "invoice-clean.png",
+        "Invoice PDF upload, extraction and Excel download interface"
+      ]
+    ],
+    "source": "Updated Samwha Europe career information",
+    "num": "02"
+  },
+  {
+    "id": "category",
+    "num": "03",
+    "tag": "GROWTH · CATEGORY",
+    "title": "Travel goods category growth",
+    "summary": "Addressed declining traffic through category restructuring, UI improvements, and cross-selling.",
+    "metric": "+61.5%",
+    "unit": "Transaction value growth",
+    "sub": "Weekly traffic +53.4%",
+    "image": "category-cutout.png",
+    "alt": "Travel goods category UI before and after improvements",
+    "overview": "Analysis of declining travel goods transaction value revealed reduced traffic as the main bottleneck. I addressed it through cross-selling, category restructuring, and UI improvements.",
+    "role": "Sole responsibility for category improvement and operations",
+    "process": [
+      "Reviewed all listed vendors’ product categories and reorganized the dashboard.",
+      "Simplified the travel goods category structure and redesigned the promotional page.",
+      "Introduced a rental category to build competitiveness against a rival’s Rocket Delivery offering.",
+      "Designed travel goods cross-selling for travel product purchasers to drive category traffic.",
+      "Recruited new vendors through cold email outreach."
+    ],
+    "results": [
+      "Transaction value increased by 61.5%.",
+      "Weekly traffic increased by 53.4%."
+    ],
+    "gallery": [
+      [
+        "category-cutout.png",
+        "Category UI before and after, and cross-selling CRM message"
+      ]
+    ],
+    "source": "Source PDF · Page 7"
+  },
+  {
+    "id": "rental",
+    "tag": "BUSINESS DEVELOPMENT · CROSS-SELL",
+    "title": "Jeju car rental cross-selling",
+    "summary": "Identified demand across 100+ travel content items and turned it into a negotiated cross-selling promotion.",
+    "metric": "617",
+    "unit": "Bookings in four days",
+    "sub": "₩63.6M in transaction value",
+    "image": "jeju-hotel-coupon.png",
+    "overview": "Analyzed customer journeys across more than 100 pieces of Jeju travel content to identify car rental demand. Turned the opportunity into a promotion through partner negotiations and accommodation cross-selling.",
+    "role": "Customer journey analysis · Partner negotiation · Cross-selling promotion",
+    "process": [
+      "Analyzed customer journeys across 100+ pieces of Jeju travel content.",
+      "Negotiated a 20% discount in partner meetings.",
+      "Launched a cross-selling promotion with accommodation products."
+    ],
+    "results": [
+      "Generated 617 bookings in four days.",
+      "Achieved ₩63.6 million in transaction value."
+    ],
+    "gallery": [
+      [
+        "jeju-hotel-coupon.png",
+        "Jeju rental car 20% discount coupon embedded in a hotel promotion"
+      ]
+    ],
+    "source": "Updated Myrealtrip career information",
+    "num": "04"
+  },
+  {
+    "id": "seo",
+    "num": "05",
+    "tag": "PYTHON · AUTOMATION",
+    "title": "SEO monitoring automation",
+    "summary": "Automated daily ranking collection with Python to reduce repetitive work.",
+    "metric": "87.5%",
+    "unit": "Less time spent",
+    "sub": "4 hours → 30 minutes",
+    "image": "seo-redacted.png",
+    "alt": "Keyword and ASIN table with Python automation code",
+    "overview": "SEO monitoring required over four hours of work every day. I developed a Python-based automation program to streamline this recurring task.",
+    "role": "Development of an automated SEO monitoring program",
+    "process": [
+      "Developed Python automation to track rankings for approximately 50 keywords.",
+      "Organized ASIN codes for listed vendors and competitors.",
+      "Analyzed the HTML structure of Amazon.de.",
+      "Developed a Python program to collect organic search rankings automatically.",
+      "Supported the Spain team during a staffing gap."
+    ],
+    "results": [
+      "Reduced daily task time by 87.5%, from four hours to 30 minutes."
+    ],
+    "gallery": [
+      [
+        "seo-redacted.png",
+        "ASIN organization and organic search rank collection code"
+      ]
+    ],
+    "source": "Updated career information · Process from original PDF"
+  },
+  {
+    "id": "data",
+    "num": "06",
+    "tag": "DATA · VISUALIZATION",
+    "title": "Sales data visualization",
+    "summary": "Transformed raw sales figures into dashboards that support decisions.",
+    "metric": "Patterns → Forecasts",
+    "unit": "Promotion-driven product analysis",
+    "sub": "Google Data Studio",
+    "image": "spigen-dashboard-private.png",
+    "alt": "Sales dashboard for analyzing products benefiting from promotions",
+    "overview": "Raw sales figures made it difficult to identify which product models benefited from promotions. I built dashboards to visualize sales volumes, reveal patterns, and help predict the models likely to benefit from future promotions.",
+    "role": "Sales data visualization using Google Data Studio",
+    "process": [
+      "Worked with teammates to identify the most useful data and controls.",
+      "Built dashboards with adjustable controls for manufacturer, release date, and other dimensions.",
+      "Visualized changes in sales volume by device.",
+      "Visualized promotional sales growth rates."
+    ],
+    "results": [
+      "Identified annual patterns in product models benefiting from promotions.",
+      "Predicted product models likely to benefit from the next promotion."
+    ],
+    "gallery": [
+      [
+        "spigen-dashboard-private.png",
+        "Spigen sales and promotion analysis dashboards"
+      ]
+    ],
+    "source": "Source PDF · Page 9"
+  }
+]
